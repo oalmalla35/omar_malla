@@ -1,0 +1,39 @@
+{
+  "profile": {
+    "name": "Omar Almalla",
+    "tagline": "Video editing for social media reels and event coverage.",
+    "about": "I\u2019m Omar Almalla, a video editor creating short-form social content and event coverage. I focus on clean pacing, thoughtful cuts, and a natural flow.",
+    "portraitUrl": "/media/omar-portrait.png",
+    "email": "oalmalla35@gmail.com",
+    "instagramHandle": "@omar.al.malla",
+    "instagramUrl": "https://www.instagram.com/omar.al.malla/"
+  },
+  "projects": [
+    {
+      "id": "trendy-motion-graphics",
+      "title": "Trendy Motion Graphics",
+      "type": "Motion graphics \u00b7 Social reel",
+      "category": "social",
+      "format": "vertical",
+      "source": "instagram",
+      "url": "https://www.instagram.com/reel/Deuo16JNLnv/",
+      "coverUrl": "/media/trendy-motion-graphics.jpg",
+      "description": "A social media reel featuring motion graphics.",
+      "published": true,
+      "sample": false
+    },
+    {
+      "id": "robotics-competition",
+      "title": "Robotics Competition",
+      "type": "Event coverage",
+      "category": "events",
+      "format": "vertical",
+      "source": "instagram",
+      "url": "https://www.instagram.com/reel/DeRrUWqtgG1/",
+      "coverUrl": "/media/robotics-competition.jpg",
+      "description": "Coverage of a robotics competition at Al Thanaa Mosque.",
+      "published": true,
+      "sample": false
+    }
+  ]
+}
